@@ -45,4 +45,4 @@ HealthZen offers a specialized website that streamlines appointment scheduling a
 
 ## 🧾 Copyright
 
-© 2023 Adrián Torres — All Rights Reserved.
+© 2023 - 2025 Adrián Torres — All Rights Reserved.
